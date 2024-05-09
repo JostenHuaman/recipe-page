@@ -1,5 +1,5 @@
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution { font-size: 1em; text-align: center; padding: 20px;}
+.attribution a { color: var(--Nutmeg); }
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
 
 :root{
